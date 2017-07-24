@@ -1,5 +1,7 @@
 package main.java.behavioralPatterns.template.scene;
 
+import static java.util.concurrent.TimeUnit.SECONDS;
+
 /**
  * Created by henser on 17-7-9.
  */
