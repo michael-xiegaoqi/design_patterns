@@ -3,6 +3,7 @@ package com.henser.behavioralPatterns.responsibility.scene;
 import java.util.List;
 
 /**
+ * 责任链模式
  * Created by henser on 2017/7/28.
  */
 public abstract class PayChannelRule {
